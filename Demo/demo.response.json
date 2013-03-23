@@ -1,1 +1,5 @@
-{ "test": "demo" }
+{"posts:[
+  { "title": "demo1" , "date": "03/22/2013" },
+  { "title": "demo1" , "date": "03/22/2013" },
+  { "title": "demo1" , "date": "03/22/2013" },
+  { "title": "demo1" , "date": "03/22/2013" }]
